@@ -6,4 +6,5 @@
 💡 Always innovating, defining priorities, and making things happen.<br>
 
 ✨ Let’s build the future together! 🚀<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishinaiyappaag&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishinaiyappaag)](https://github.com/anuraghazra/github-readme-stats)
