@@ -48,8 +48,9 @@
 
 ### 🌐 Backend & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,linux,supabase" />
 </p>
+
 
 ---
 
