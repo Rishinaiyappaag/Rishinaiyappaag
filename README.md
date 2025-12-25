@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 Data & Visualization (FIXED ✅)
+### 📊 Data & Visualization 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
