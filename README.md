@@ -55,7 +55,7 @@
 
 ### 💻 Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pychram" />
 </p>
 
 ---
