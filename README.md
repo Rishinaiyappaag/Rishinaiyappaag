@@ -89,7 +89,7 @@
 
 
 ## 🧪 AI Philosophy
-> *“AI isn’t just about accuracy — it’s about usefulness, ethics, and real impact.”*
+>## *“AI isn’t just about accuracy — it’s about usefulness, ethics, and real impact.”*
 
 ---
 
