@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishinaiyappaag&theme=tokyonight" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishinaiyappaag&layout=compact&langs_count=10)
 </p>
 
 
