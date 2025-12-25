@@ -76,17 +76,12 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://stats-github-readme.vercel.app/api?username=Rishinaiyappaag&show_icons=true&theme=tokyonight" 
-    width="70%" 
-  />
+  <img src="https://stats-github-readme.vercel.app/api?username=Rishinaiyappaag&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Rishinaiyappaag&layout=compact&langs_count=10&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishinaiyappaag&layout=compact&langs_count=10&theme=tokyonight" 
-    width="60%" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishinaiyappaag&theme=tokyo-night" />
 </p>
 
 ## 🧪 AI Philosophy
