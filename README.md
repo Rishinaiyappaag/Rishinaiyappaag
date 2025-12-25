@@ -71,25 +71,14 @@
 
 ---
 
-## 🚀 Selected AI Projects
-- 🖐️ **Hand Gesture Recognition System** – Real-time CNN-based classification  
-- 👁️ **Women Harassment Detection via CCTV** – AI-powered surveillance & alerts  
-- 🧠 **Conversational AI Calendar Assistant** – NLP-based scheduling system  
-- ♻️ **Eco Drop – E-Waste Collection Scheduler** – Smart AI-enabled platform  
 
----
 
 ## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishinaiyappaag&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishinaiyappaag&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishinaiyappaag&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://stats-github-readme.vercel.app/api?username=Rishinaiyappaag&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Rishinaiyappaag&layout=compact&langs_count=10&theme=tokyonight" width="48%" />
 </p>
-
----
 
 ## 🧪 AI Philosophy
 > *“AI isn’t just about accuracy — it’s about usefulness, ethics, and real impact.”*
