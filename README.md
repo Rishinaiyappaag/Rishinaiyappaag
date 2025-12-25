@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🤖 Artificial Intelligence & Machine Learning Engineer in the Making
+  🤖 AI & Machine Learning Engineer in the Making
 </h3>
 
 <p align="center">
@@ -12,12 +12,13 @@
 
 ---
 
-## 🧠 About Me (AI Focused)
+## 🧠 About Me
 
-- 🤖 AI & ML enthusiast with a passion for **real-world problem solving**
-- 🧪 Experience with **ML models, NLP, Computer Vision**
-- 📈 Strong interest in **data-driven decision making**
-- 🚀 Believe in **learning fast, failing smart, and building better**
+- 🎯 Risk-taker who thrives on **complex AI challenges**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🧪 Hands-on with **ML models, NLP, Computer Vision**
+- 📈 Believe in **data-driven decision making**
+- 🚀 Turning ideas into **real-world AI solutions**
 
 ---
 
@@ -28,15 +29,21 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
+---
+
 ### 📊 Data & Visualization
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
 </p>
+
+---
 
 ### 🌐 Backend & Deployment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,linux" />
 </p>
+
+---
 
 ### 💻 Development Tools
 <p align="center">
@@ -45,7 +52,33 @@
 
 ---
 
-## 📈 AI-Powered GitHub Analytics
+## 🧠 AI Domains I Explore
+
+- 🖼️ Computer Vision & Image Processing  
+- 🗣️ Natural Language Processing (NLP)  
+- 🤖 Generative AI & Prompt Engineering  
+- 📊 Predictive Analytics  
+- 🤝 AI Assistants & Chatbots  
+
+---
+
+## 🚀 Selected AI Projects
+
+- 🖐️ **Hand Gesture Recognition System**  
+  Real-time gesture classification using CNNs & video streams  
+
+- 👁️ **Women Harassment Detection via CCTV**  
+  AI-powered surveillance with alert & location sharing  
+
+- 🧠 **Conversational AI Calendar Assistant**  
+  NLP-based assistant that books events via Google Calendar  
+
+- ♻️ **Eco Drop – E-Waste Collection Scheduler**  
+  AI-enabled scheduling & Supabase-backed platform  
+
+---
+
+## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishinaiyappaag&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishinaiyappaag&layout=compact&langs_count=10&theme=tokyonight" width="48%" />
@@ -57,23 +90,14 @@
 
 ---
 
-## 🧠 AI Domains I Explore
+## 🧪 AI Philosophy
 
-- 🖼️ Computer Vision  
-- 🗣️ Natural Language Processing (NLP)  
-- 📹 Video & Gesture Recognition  
-- 📊 Predictive Analytics  
-- 🤝 AI Assistants & Chatbots  
+> *“AI isn’t just about models — it’s about impact, responsibility, and usability.”*
 
 ---
 
-## 🚀 AI Philosophy
+## 🌍 Let’s Connect
 
-> *“AI is not just about models — it’s about impact, ethics, and usability.”*
-
----
-
-## 🌍 Let’s Connect & Build AI
 <p align="center">
   <a href="mailto:rishinaiyappaag@gmail.com">
     <img src="https://img.shields.io/badge/Email-AI%20Engineer-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
