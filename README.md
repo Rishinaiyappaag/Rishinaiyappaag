@@ -7,8 +7,9 @@
 </h3>
 
 <p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishinaiyappaag&layout=compact&langs_count=10)
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00E5FF&center=true&vCenter=true&width=780&lines=Building+Intelligent+Systems+🤖;AI+%7C+Machine+Learning+%7C+Deep+Learning;Turning+Data+into+Decisions+📊;From+Ideas+to+AI+Products+🚀;Learning+Relentlessly%2C+Building+Fearlessly" />
 </p>
+
 
 
 ---
@@ -82,8 +83,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00E5FF&center=true&vCenter=true&width=780&lines=Building+Intelligent+Systems+🤖;AI+%7C+Machine+Learning+%7C+Deep+Learning;Turning+Data+into+Decisions+📊;From+Ideas+to+AI+Products+🚀;Learning+Relentlessly%2C+Building+Fearlessly" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishinaiyappaag&theme=tokyonight" />
 </p>
+
 
 
 ## 🧪 AI Philosophy
