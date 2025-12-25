@@ -88,8 +88,9 @@
 
 
 
-## 🧪 AI Philosophy
->## *“AI isn’t just about accuracy — it’s about usefulness, ethics, and real impact.”*
+## 🎯 Core Focus
+>  ## *Automating brilliance through intelligent systems.*
+
 
 ---
 
