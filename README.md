@@ -82,8 +82,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishinaiyappaag&theme=tokyo-night" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00E5FF&center=true&vCenter=true&width=780&lines=Building+Intelligent+Systems+🤖;AI+%7C+Machine+Learning+%7C+Deep+Learning;Turning+Data+into+Decisions+📊;From+Ideas+to+AI+Products+🚀;Learning+Relentlessly%2C+Building+Fearlessly" />
 </p>
+
 
 ## 🧪 AI Philosophy
 > *“AI isn’t just about accuracy — it’s about usefulness, ethics, and real impact.”*
